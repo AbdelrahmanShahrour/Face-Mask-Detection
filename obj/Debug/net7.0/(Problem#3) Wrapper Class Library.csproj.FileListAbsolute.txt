@@ -1,0 +1,15 @@
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/bin/Debug/net7.0/(Problem#3) Wrapper Class Library
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/bin/Debug/net7.0/(Problem#3) Wrapper Class Library.deps.json
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/bin/Debug/net7.0/(Problem#3) Wrapper Class Library.runtimeconfig.json
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/bin/Debug/net7.0/(Problem#3) Wrapper Class Library.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/bin/Debug/net7.0/(Problem#3) Wrapper Class Library.pdb
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/obj/Debug/net7.0/(Problem#3) Wrapper Class Library.csproj.AssemblyReference.cache
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/obj/Debug/net7.0/(Problem#3) Wrapper Class Library.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/obj/Debug/net7.0/(Problem#3) Wrapper Class Library.AssemblyInfoInputs.cache
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/obj/Debug/net7.0/(Problem#3) Wrapper Class Library.AssemblyInfo.cs
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/obj/Debug/net7.0/(Problem#3) Wrapper Class Library.csproj.CoreCompileInputs.cache
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/obj/Debug/net7.0/(Problem#3) Wrapper Class Library.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/obj/Debug/net7.0/refint/(Problem#3) Wrapper Class Library.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/obj/Debug/net7.0/(Problem#3) Wrapper Class Library.pdb
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/obj/Debug/net7.0/(Problem#3) Wrapper Class Library.genruntimeconfig.cache
+/home/abdalrahman/Desktop/ProgressSoft/(Problem#3) Wrapper Class Library/obj/Debug/net7.0/ref/(Problem#3) Wrapper Class Library.dll
